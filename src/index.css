@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+html {
+  background-color: #161513;
+  scroll-behavior: smooth;
+}
