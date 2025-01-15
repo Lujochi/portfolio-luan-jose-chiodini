@@ -3,7 +3,7 @@ import "./Home.css";
 export const Home = () => {
   return (
     <section id="Home">
-      <img src="/images/avatar.png" alt="Avatar" />
+      <img src="/images/avatar.png" alt="Avatar" className="avatar" />
       <div className="container">
         <h1>I'm Luan Jose Chiodini</h1>
         <h2>Full Stack Developer</h2>
@@ -32,6 +32,26 @@ export const Home = () => {
             </li>
           </ul>
         </div>
+      </div>
+      <div className="experience-with">
+        <h4>Experience With</h4>
+        <ul>
+          <li>
+            <img src="/images/javascript.png" alt="JavaScript" />
+          </li>
+          <li>
+            <img src="/images/nodejs.png" alt="Node" />
+          </li>
+          <li>
+            <img src="/images/html.png" alt="HTML5" />
+          </li>
+          <li>
+            <img src="/images/css.png" alt="CSS3" />
+          </li>
+          <li>
+            <img src="/images/reactjs.png" alt="React" />
+          </li>
+        </ul>
       </div>
     </section>
   );

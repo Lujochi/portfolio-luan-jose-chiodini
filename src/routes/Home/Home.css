@@ -6,7 +6,7 @@
   text-align: center;
 }
 
-#Home img {
+#Home img.avatar {
   max-width: 300px;
   margin-top: 100px;
   margin-bottom: 55px;
@@ -43,6 +43,10 @@ p {
   font-weight: 200;
   color: #fff;
   margin-bottom: 35px;
+}
+
+.btns {
+  margin-bottom: 150px;
 }
 
 .btns ul {
@@ -83,8 +87,22 @@ a.download-button:hover {
   color: #9a33ff;
 }
 
+.experience-with h4 {
+  text-transform: uppercase;
+  color: #c5c5c5;
+  font-size: 22px;
+  letter-spacing: 2px;
+  margin-bottom: 55px;
+}
+
+.experience-with ul {
+  list-style: none;
+  display: flex;
+  gap: 60px;
+}
+
 @media (max-width: 830px) {
-  #Home img {
+  #Home img.avatar {
     max-width: 200px;
   }
 
@@ -118,6 +136,12 @@ a.download-button:hover {
 
   .btns ul li a {
     font-size: 16px;
+  }
+
+  .experience-with ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
   }
 }
 
