@@ -19,25 +19,25 @@
   align-items: center;
 }
 
-h1,
-h2 {
+#Home h1,
+#Home h2 {
   font-size: 55px;
   font-weight: 900;
   line-height: 63px;
 }
 
-h1 {
+#Home h1 {
   color: #fff;
 }
 
-h2 {
+#Home h2 {
   background: linear-gradient(95deg, #ff8660 50%, #9a33ff 80%);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   margin-bottom: 50px;
 }
 
-p {
+#Home p {
   width: 700px;
   font-size: 18px;
   font-weight: 200;
@@ -87,6 +87,10 @@ a.download-button:hover {
   color: #9a33ff;
 }
 
+.experience-with {
+  margin-bottom: 100px;
+}
+
 .experience-with h4 {
   text-transform: uppercase;
   color: #c5c5c5;
@@ -106,12 +110,12 @@ a.download-button:hover {
     max-width: 200px;
   }
 
-  h1,
-  h2 {
+  #Home h1,
+  #Home h2 {
     font-size: 45px;
   }
 
-  p {
+  #Home p {
     width: 500px;
     font-size: 16px;
   }
@@ -122,13 +126,13 @@ a.download-button:hover {
 }
 
 @media (max-width: 550px) {
-  h1,
-  h2 {
+  #Home h1,
+  #Home h2 {
     font-size: 30px;
     line-height: 43px;
   }
 
-  p {
+  #Home p {
     width: 300px;
     font-size: 14px;
     font-weight: 300;
@@ -146,13 +150,13 @@ a.download-button:hover {
 }
 
 @media (max-width: 390px) {
-  h1,
-  h2 {
+  #Home h1,
+  #Home h2 {
     font-size: 23px;
     line-height: 33px;
   }
 
-  p {
+  #Home p {
     width: 250px;
     font-size: 13px;
     font-weight: 400;

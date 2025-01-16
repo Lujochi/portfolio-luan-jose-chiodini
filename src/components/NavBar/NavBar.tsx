@@ -18,7 +18,7 @@ export const NavBar = () => {
 
           <ul>
             <li>
-              <a href="#Home">Home</a>
+              <a href="#">Home</a>
             </li>
             <li>
               <a href="#Projects">Projects</a>

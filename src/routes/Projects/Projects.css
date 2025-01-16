@@ -1,0 +1,22 @@
+#Projects {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#Projects h2 {
+  font-size: 40px;
+  font-weight: 900;
+  background: linear-gradient(90deg, #ff8660 0%, #d5491d 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 40px;
+}
+
+.container-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+  margin-bottom: 100px;
+}
