@@ -2,33 +2,33 @@ import { Card } from "../Card/Card";
 
 const projectCards = [
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Box Shadow",
+    cardImage: "/images/project-thumbnail-box-shadow.png",
     cardUrl: "#",
   },
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Multi Steps Form",
+    cardImage: "/images/project-thumbnail-multi-step-form.jpg",
     cardUrl: "#",
   },
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Api Rest",
+    cardImage: "/images/project-thumbnail-api-rest.png",
     cardUrl: "#",
   },
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Dev Notes",
+    cardImage: "/images/project-thumbnail-dev-notes.png",
     cardUrl: "#",
   },
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Ecommerce",
+    cardImage: "/images/project-thumbnail-ecommerce.png",
     cardUrl: "#",
   },
   {
-    cardTitle: "Project Name",
-    cardImage: "/images/project-thumbnail-1.png",
+    cardTitle: "Portfolio",
+    cardImage: "/images/project-thumbnail-portfolio.png",
     cardUrl: "#",
   },
 ];
