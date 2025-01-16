@@ -1,0 +1,58 @@
+#Experience {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#Experience h3 {
+  text-transform: uppercase;
+  font-size: 40px;
+  font-weight: 900;
+  background: linear-gradient(90deg, #5badff 0%, #1373d1 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 60px;
+}
+
+#Experience ul {
+  list-style: none;
+}
+
+#Experience ul li {
+  max-width: 850px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.container-text {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.container-text p {
+  font-size: 14px;
+  color: #8491a0;
+}
+
+.logo-title {
+  display: flex;
+  gap: 15px;
+}
+
+.logo-title h5 {
+  font-size: 20px;
+  color: #fff;
+}
+
+.logo-title img {
+  width: 35px;
+  height: 35px;
+}
+
+#Experience ul li p {
+  font-size: 15px;
+  color: #8491a0;
+  text-align: justify;
+}

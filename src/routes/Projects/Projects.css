@@ -6,6 +6,7 @@
 }
 
 #Projects h2 {
+  text-transform: uppercase;
   font-size: 40px;
   font-weight: 900;
   background: linear-gradient(90deg, #ff8660 0%, #d5491d 100%);
