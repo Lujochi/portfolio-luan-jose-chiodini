@@ -8,7 +8,7 @@ export const Contact = () => {
         <p>
           Entre em contato comigo por whatsapp, email, instagram e linkdin, tem
           meu perfil do GitHub aqui também, da uma passada lá para ver no que
-          estou trabalhando no momento!
+          estou trabalhando no momento!!
         </p>
         <i className="ri-mail-line mail"></i>
         <a

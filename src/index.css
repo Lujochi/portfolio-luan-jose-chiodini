@@ -9,3 +9,18 @@ html {
   background-color: #161513;
   scroll-behavior: smooth;
 }
+
+html::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+html::-webkit-scrollbar-track {
+  background: #161513;
+  border-radius: 6px;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: #9a33ff;
+  border-radius: 6px;
+}
