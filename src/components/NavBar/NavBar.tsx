@@ -5,7 +5,7 @@ export const NavBar = () => {
     <header>
       <div className="header-container">
         <a href="/">
-          <img src="../../../public/images/logo.png" alt="Logo" />
+          <img src="./images/logo.png" alt="Logo" />
         </a>
 
         <nav>

@@ -3,32 +3,32 @@ import { Card } from "../Card/Card";
 const projectCards = [
   {
     cardTitle: "Box Shadow",
-    cardImage: "/images/project-thumbnail-box-shadow.png",
+    cardImage: "./images/project-thumbnail-box-shadow.png",
     cardUrl: "#",
   },
   {
     cardTitle: "Multi Steps Form",
-    cardImage: "/images/project-thumbnail-multi-step-form.jpg",
+    cardImage: "./images/project-thumbnail-multi-step-form.jpg",
     cardUrl: "#",
   },
   {
     cardTitle: "Api Rest",
-    cardImage: "/images/project-thumbnail-api-rest.png",
+    cardImage: "./images/project-thumbnail-api-rest.png",
     cardUrl: "#",
   },
   {
     cardTitle: "Dev Notes",
-    cardImage: "/images/project-thumbnail-dev-notes.png",
+    cardImage: "./images/project-thumbnail-dev-notes.png",
     cardUrl: "#",
   },
   {
     cardTitle: "Ecommerce",
-    cardImage: "/images/project-thumbnail-ecommerce.png",
+    cardImage: "./images/project-thumbnail-ecommerce.png",
     cardUrl: "#",
   },
   {
     cardTitle: "Portfolio",
-    cardImage: "/images/project-thumbnail-portfolio.png",
+    cardImage: "./images/project-thumbnail-portfolio.png",
     cardUrl: "#",
   },
 ];
