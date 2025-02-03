@@ -8,7 +8,7 @@ export const Experience = () => {
         <li>
           <div className="container-text">
             <div className="logo-title">
-              <img src="/images/uniasselvi-logo.png" alt="Logo Uniasselvi" />
+              <img src="./images/uniasselvi-logo.png" alt="Logo Uniasselvi" />
               <h5>Ciência da Computação</h5>
             </div>
             <p>Feb 2025 - Present</p>
@@ -23,7 +23,7 @@ export const Experience = () => {
         <li>
           <div className="container-text">
             <div className="logo-title">
-              <img src="/images/dev-quest-logo.png" alt="Logo Dev Quest" />
+              <img src="./images/dev-quest-logo.png" alt="Logo Dev Quest" />
               <h5>Dev Quest - Full Stack</h5>
             </div>
             <p>Jun 2024 - Jan 2025</p>
@@ -39,7 +39,7 @@ export const Experience = () => {
         <li>
           <div className="container-text">
             <div className="logo-title">
-              <img src="/images/udemy-logo.png" alt="Logo Udemy" />
+              <img src="./images/udemy-logo.png" alt="Logo Udemy" />
               <h5>Udemy - Front-End</h5>
             </div>
             <p>Feb 2024 - Jun 2024</p>
@@ -54,7 +54,7 @@ export const Experience = () => {
           <div className="container-text">
             <div className="logo-title">
               <img
-                src="/images/curso-em-video-logo.png"
+                src="./images/curso-em-video-logo.png"
                 alt="Logo Curso em Video"
               />
               <h5>Curso em Video</h5>
