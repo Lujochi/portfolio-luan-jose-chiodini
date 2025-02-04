@@ -41,7 +41,7 @@ export const Cards = () => {
         {projectCards.map((projectCards, index) => {
           return (
             <Card key={index}>
-              <a href={projectCards.cardUrl} target="Blank_">
+              <a href={projectCards.cardUrl} target="_blank">
                 <img src={projectCards.cardImage} alt="card" />
                 <div className="text-box">
                   <h3>{projectCards.cardTitle}</h3>
