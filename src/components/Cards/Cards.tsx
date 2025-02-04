@@ -24,7 +24,7 @@ const projectCards = [
   },
   {
     cardTitle: "Menu Hamburgueria",
-    cardImage: "./images/menuHamburgueria.jpg",
+    cardImage: "./images/menuHamburgueria.jpeg",
     cardUrl: "https://github.com/Lujochi/cardapio-online-hamburgueria",
   },
   {
@@ -41,7 +41,7 @@ export const Cards = () => {
         {projectCards.map((projectCards, index) => {
           return (
             <Card key={index}>
-              <a href={projectCards.cardUrl}>
+              <a href={projectCards.cardUrl} target="Blank_">
                 <img src={projectCards.cardImage} alt="card" />
                 <div className="text-box">
                   <h3>{projectCards.cardTitle}</h3>
