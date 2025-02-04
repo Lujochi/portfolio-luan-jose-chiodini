@@ -24,7 +24,7 @@ const projectCards = [
   },
   {
     cardTitle: "Menu Hamburgueria",
-    cardImage: "./images/menuHamburgueria.jpeg",
+    cardImage: "./images/project-thumbnail-hamburgueria.png",
     cardUrl: "https://github.com/Lujochi/cardapio-online-hamburgueria",
   },
   {
