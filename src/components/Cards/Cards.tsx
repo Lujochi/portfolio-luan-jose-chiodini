@@ -4,27 +4,28 @@ const projectCards = [
   {
     cardTitle: "Box Shadow",
     cardImage: "./images/project-thumbnail-box-shadow.png",
-    cardUrl: "#",
+    cardUrl: "https://lujochi.github.io/Box-Shadow-Generator/",
   },
   {
     cardTitle: "Multi Steps Form",
     cardImage: "./images/project-thumbnail-multi-step-form.jpg",
-    cardUrl: "#",
+    cardUrl:
+      "https://github.com/Lujochi/Projeto-22-Udemy-form-multi-step-typescript",
   },
   {
-    cardTitle: "Api Rest",
+    cardTitle: "Api Rest (Em produção)",
     cardImage: "./images/project-thumbnail-api-rest.png",
-    cardUrl: "#",
+    cardUrl: "https://github.com/Lujochi/Projeto-API-REST",
   },
   {
     cardTitle: "Dev Notes",
     cardImage: "./images/project-thumbnail-dev-notes.png",
-    cardUrl: "#",
+    cardUrl: "https://lujochi.github.io/DevNotes/",
   },
   {
-    cardTitle: "Ecommerce",
-    cardImage: "./images/project-thumbnail-ecommerce.png",
-    cardUrl: "#",
+    cardTitle: "Menu Hamburgueria",
+    cardImage: "./images/menuHamburgueria.jpg",
+    cardUrl: "https://github.com/Lujochi/cardapio-online-hamburgueria",
   },
   {
     cardTitle: "Portfolio",
