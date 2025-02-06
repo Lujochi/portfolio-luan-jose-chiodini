@@ -105,6 +105,14 @@ a.download-button:hover {
   gap: 60px;
 }
 
+@media (max-width: 1700px) {
+  .experience-with ul {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 40px;
+  }
+}
+
 @media (max-width: 830px) {
   #Home img.avatar {
     max-width: 200px;
