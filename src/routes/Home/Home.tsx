@@ -37,19 +37,34 @@ export const Home = () => {
         <h4>Experience With</h4>
         <ul>
           <li>
-            <img src="./images/javascript.png" alt="JavaScript" />
+            <img src="./images/icon-js.png" alt="JavaScript" />
           </li>
           <li>
-            <img src="./images/nodejs.png" alt="Node" />
+            <img src="./images/icon-node.png" alt="Nodejs" />
           </li>
           <li>
-            <img src="./images/html.png" alt="HTML5" />
+            <img src="./images/icon-html.png" alt="HTML5" />
           </li>
           <li>
-            <img src="./images/css.png" alt="CSS3" />
+            <img src="./images/icon-css.png" alt="CSS3" />
           </li>
           <li>
-            <img src="./images/reactjs.png" alt="React" />
+            <img src="./images/icon-react.png" alt="Reactjs" />
+          </li>
+          <li>
+            <img src="./images/icon-next.png" alt="Nextjs" />
+          </li>
+          <li>
+            <img src="./images/icon-git.png" alt="Git" />
+          </li>
+          <li>
+            <img src="./images/icon-github.png" alt="GitHub" />
+          </li>
+          <li>
+            <img src="./images/icon-ts.png" alt="TypeScript" />
+          </li>
+          <li>
+            <img src="./images/icon-tailwind.png" alt="Tailwind" />
           </li>
         </ul>
       </div>
