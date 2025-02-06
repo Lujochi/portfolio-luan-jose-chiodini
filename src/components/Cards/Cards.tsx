@@ -25,7 +25,7 @@ const projectCards = [
   {
     cardTitle: "Menu Hamburgueria",
     cardImage: "./images/project-thumbnail-hamburgueria.png",
-    cardUrl: "https://github.com/Lujochi/cardapio-online-hamburgueria",
+    cardUrl: "https://cardapio-online-hamburgueria-nqjjhw6yw.vercel.app",
   },
   {
     cardTitle: "Portfolio",
