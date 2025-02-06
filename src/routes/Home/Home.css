@@ -113,6 +113,14 @@ a.download-button:hover {
   }
 }
 
+@media (max-width: 1300px) {
+  .experience-with ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+  }
+}
+
 @media (max-width: 830px) {
   #Home img.avatar {
     max-width: 200px;
@@ -148,12 +156,6 @@ a.download-button:hover {
 
   .btns ul li a {
     font-size: 16px;
-  }
-
-  .experience-with ul {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 40px;
   }
 }
 
