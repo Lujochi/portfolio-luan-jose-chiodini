@@ -22,11 +22,7 @@ export const Home = () => {
               </a>
             </li>
             <li>
-              <a
-                href="./LuanJose_Chiodini_currículo.pdf"
-                download
-                className="download-button"
-              >
+              <a href="./curriculo.pdf" download className="download-button">
                 Download CV
               </a>
             </li>
